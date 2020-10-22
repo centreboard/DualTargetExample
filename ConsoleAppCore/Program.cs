@@ -2,13 +2,13 @@
 
 using ClassLibrary1;
 
-namespace ConsoleAppFramework {
+namespace ConsoleAppCore {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
 
             var use = new Class1();
-            Console.WriteLine(use.Method1("From Framework"));
+            Console.WriteLine(use.Method1("From Core"));
         }
     }
 }

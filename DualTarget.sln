@@ -4,8 +4,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCore", "ConsoleAppCore\ConsoleAppCore.csproj", "{24C8C681-F6CA-454D-ABE5-ACD8518CA13B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppFramework", "ConsoleAppFramework\ConsoleAppFramework.csproj", "{CB2AEEE8-8763-4E17-A59A-042A30C83FD5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationFramework", "ConsoleApplicationFramework\ConsoleApplicationFramework.csproj", "{2B414291-3BF6-40D8-B474-6555322DD63C}"
 EndProject
 Global
@@ -22,10 +20,6 @@ Global
 		{24C8C681-F6CA-454D-ABE5-ACD8518CA13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24C8C681-F6CA-454D-ABE5-ACD8518CA13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24C8C681-F6CA-454D-ABE5-ACD8518CA13B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CB2AEEE8-8763-4E17-A59A-042A30C83FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CB2AEEE8-8763-4E17-A59A-042A30C83FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CB2AEEE8-8763-4E17-A59A-042A30C83FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CB2AEEE8-8763-4E17-A59A-042A30C83FD5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2B414291-3BF6-40D8-B474-6555322DD63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B414291-3BF6-40D8-B474-6555322DD63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B414291-3BF6-40D8-B474-6555322DD63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
