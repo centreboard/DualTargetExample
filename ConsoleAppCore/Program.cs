@@ -7,8 +7,8 @@ namespace ConsoleAppCore {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
 
-            var use = new Class1();
-            Console.WriteLine(use.Method1("From Core"));
+            var use = new Class1("Core");
+            Console.WriteLine(use.Method1("From Core") + use.Prop1);
         }
     }
 }

@@ -7,8 +7,8 @@ namespace ConsoleApplicationFramework {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
 
-            var use = new Class1();
-            Console.WriteLine(use.Method1("From Framework"));
+            var use = new Class1("Framework");
+            Console.WriteLine(use.Method1("From Framework") + use.Prop1);
         }
     }
 }
